@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Торги
     subtitle: Сегодня
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: "Тендерное\_сопровождение: от анализа закупки до участия в\_аукционе\_и подписания контракта.\_Поможем пройти все этапы\_торгов: от анализа\_тендера\_до заключения контракта\n\n"
     actions:
       - label: Try Free
         url: /pricing
