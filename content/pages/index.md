@@ -22,7 +22,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Торговые площадки
-    subtitle: Площадки
+    subtitle: Площадки ЭТП
     align: center
     grid_items:
       - image: images/logo-1.svg
