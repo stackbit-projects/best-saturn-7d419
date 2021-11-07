@@ -10,7 +10,7 @@ sections:
         url: /pricing
         style: primary
       - label: Заявка
-        url: /features
+        url: 'https://perm-electronnaya-podpis.lpg.tf/'
         style: secondary
     image: /images/classic/feature-3.png
     image_alt: Hero section placeholder image
