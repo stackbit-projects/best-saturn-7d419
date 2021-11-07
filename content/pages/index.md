@@ -9,7 +9,7 @@ sections:
       - label: Подробнее
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Заявка
         url: /features
         style: secondary
     image: images/classic/hero.png
