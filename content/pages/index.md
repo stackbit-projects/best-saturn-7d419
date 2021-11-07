@@ -22,7 +22,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Торговые площадки
-    subtitle: Grid Section Example
+    subtitle: Площадки
     align: center
     grid_items:
       - image: images/logo-1.svg
